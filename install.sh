@@ -10,5 +10,10 @@ pip2 install requests
 unzip bin.zip
 echo "Success Install..."
 echo "Silahkan Tekan python2 SF.py"
+echo "Note Menggunakan bot dengan Tools ini dapat menyebabkan FB anda terkena sesi"
+echo "Tapi Tenang Bisa di atasi"
+echo "CARANYA"
+echo "Login Dengan Browser hp Anda terlebih dahulu"
+echo "melauli link m.facebook.com"
 
 
